@@ -8,10 +8,12 @@
 - Modals
 - Carousel
 - Data Types
-- Variables
-- Truthy/Falsy
-- Operators
-- Conditionals
-- Switch
+
+
+  [x]  Variables
+  [x] Truthy/Falsy
+  [x] Operators
+  [x] Conditionals
+  [x] Switch
 
 - Workshop
